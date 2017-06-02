@@ -31,14 +31,16 @@ The following files are available for the train and test data. Their description
 
 
 ## Data after Transformation
-For more info check the raw dataset informations!
-activity
+Activity:
+
 	LAYING; SITTING; STANDING; WALKING; WALKING_DOWNSTAIRS; WALKING_UPSTAIRS
 
-subject
+Subject:
+
 	1...30
 
-average of each variable for each activity and each subject
+Average of each variable for each activity and each subject:
+
     tBodyAcc-mean()-X
     tBodyAcc-mean()-Y
     tBodyAcc-mean()-Z
